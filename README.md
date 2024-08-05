@@ -1,3 +1,7 @@
+# OI-wiki 镜像网站（By Jerrycyx）
+
+### 非商业使用
+
 [![Word Art](docs/images/wordArt.webp)](https://oi-wiki.org/)
 
 # 欢迎来到 **OI Wiki**！
