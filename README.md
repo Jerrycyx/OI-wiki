@@ -1,6 +1,10 @@
 # OI-wiki 镜像网站（By Jerrycyx）
 
-### 非商业使用
+### 非商业使用，无任何盈利目的
+
+以下为原 OI-wiki 文件：
+
+-----
 
 [![Word Art](docs/images/wordArt.webp)](https://oi-wiki.org/)
 
